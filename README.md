@@ -4,9 +4,9 @@ Hi 👋 My name is Gabriel
 Software Engineer
 -----------------
 
-* 🌍  I'm based in Brazil
-* ✉️  You can contact me at [gabrieel@email.com](mailto:gabrieel@email.com)
-* 🚀  I'm currently working on [Puby - Delivery Platform](http://puby.app)
+* 🌍  Brazil
+* ✉️  Contact me at [gabrieel@email.com](mailto:gabrieel@email.com)
+* 🚀  Busy on projects [Puby](http://puby.app) & [Toty](https://toty.app)
 
 ### Skills
 
@@ -35,4 +35,4 @@ Software Engineer
 
 <a href="http://www.github.com/gabrielsrc"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielsrc&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/gabrielsrc"><img src="https://activity-graph.herokuapp.com/graph?username=gabrielsrc&bg_color=1c1917&color=ffffff&line=84cc16&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/gabrielsrc"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=gabrielsrc&bg_color=1c1917&color=ffffff&line=84cc16&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
