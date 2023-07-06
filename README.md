@@ -6,7 +6,6 @@ Software Engineer
 
 * 🌍  Brazil
 * ✉️  Contact me at [gabrieel@email.com](mailto:gabrieel@email.com)
-* 🚀  Busy on projects [Puby](http://puby.app) & [Toty](https://toty.app)
 
 ### Skills
 
