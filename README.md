@@ -1,11 +1,11 @@
-Hi 👋 My name is Gabriel
+Hi 👋
 ========================
 
 Software Engineer
 -----------------
 
-* 🌍  Brazil
-* ✉️  Contact me at [gabrieel@email.com](mailto:gabrieel@email.com)
+* 🌍  Bra(s|z)il
+* ✉️  [gabrieel@email.com](mailto:gabrieel@email.com)
 
 ### Skills
 
