@@ -1,10 +1,10 @@
-Hi 👋
+Hihi 👋
 ========================
 
 Software Engineer
 -----------------
 
-* 🌍  Bra(s|z)il
+* 🌍  Brasil
 * ✉️  [gabrieel@email.com](mailto:gabrieel@email.com)
 
 ### Skills
